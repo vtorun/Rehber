@@ -1,0 +1,116 @@
+{
+  "contact": [
+    {
+      "id": "abc123",
+      "name": "Merve Demir",
+      "positon": "Frontend Developer",
+      "company": "Google",
+      "phone": "+90 532 123 45 67",
+      "email": "merve.demir@google.com"
+    },
+    {
+      "id": "def456",
+      "name": "Ahmet Yılmaz",
+      "positon": "Backend Developer",
+      "company": "Microsoft",
+      "phone": "+90 544 987 65 43",
+      "email": "ahmet.yilmaz@microsoft.com"
+    },
+    {
+      "name": "Zeynep Akın",
+      "positon": "Data Scientist",
+      "company": "Facebook",
+      "phone": "+90 505 789 12 36",
+      "email": "zeynep.akin@facebook.com",
+      "id": "ghi789"
+    },
+    {
+      "id": "jkl012",
+      "name": "Ali Vural",
+      "positon": "DevOps Engineer",
+      "company": "Netflix",
+      "phone": "+90 538 654 32 10",
+      "email": "ali.vural@netflix.com"
+    },
+    {
+      "id": "mno345",
+      "name": "Elif Karaca",
+      "positon": "UI/UX Designer",
+      "company": "Spotify",
+      "phone": "+90 534 333 22 11",
+      "email": "elif.karaca@spotify.com"
+    },
+    {
+      "id": "pqr678",
+      "name": "Hakan Çelik",
+      "positon": "Product Manager",
+      "company": "Uber",
+      "phone": "+90 536 111 22 33",
+      "email": "hakan.celik@uber.com"
+    },
+    {
+      "name": "Aslı Korkmaz",
+      "positon": "Software Architect",
+      "company": "Amazon",
+      "phone": "+90 533 444 55 66",
+      "email": "asli.korkmaz@adobe.com",
+      "id": "stu901"
+    },
+    {
+      "id": "vwx234",
+      "name": "Emre Güzel",
+      "positon": "Mobile Developer",
+      "company": "Twitter",
+      "phone": "+90 531 222 33 44",
+      "email": "emre.guzel@twitter.com"
+    },
+    {
+      "id": "yza567",
+      "name": "Nazlı Şahin",
+      "positon": "QA Engineer",
+      "company": "Samsung",
+      "phone": "+90 532 999 88 77",
+      "email": "nazli.sahin@samsung.com"
+    },
+    {
+      "id": "bcd890",
+      "name": "Burak Yıldız",
+      "positon": "Cloud Engineer",
+      "company": "IBM",
+      "phone": "+90 544 555 44 33",
+      "email": "burak.yildiz@ibm.com"
+    },
+    {
+      "id": "efg123",
+      "name": "Ayşe Özkan",
+      "positon": "Machine Learning Engineer",
+      "company": "OpenAI",
+      "phone": "+90 535 777 66 55",
+      "email": "ayse.ozkan@openai.com"
+    },
+    {
+      "id": "klm789",
+      "name": "Ece Yıldırım",
+      "positon": "Game Developer",
+      "company": "Epic Games",
+      "phone": "+90 537 333 22 11",
+      "email": "ece.yildirim@epicgames.com"
+    },
+    {
+      "name": "Selin Demir",
+      "positon": "Blockchain Developer",
+      "company": "Ripple",
+      "phone": "+90 534 987 65 43",
+      "email": "selin.arslan@ripple.com",
+      "id": "qrs345"
+    },
+    {
+      "name": "Nurcan Torun",
+      "positon": "Developer",
+      "company": "Amazon",
+      "phone": "0555 555 66 66",
+      "email": "nurcan@hotmail.com",
+      "id": "8708"
+    }
+  ]
+}
